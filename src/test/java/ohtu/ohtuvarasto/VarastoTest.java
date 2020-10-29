@@ -18,7 +18,7 @@ public class VarastoTest {
     @Before
     public void setUp() {
 
-        varasto = new Varasto(10);
+        varasto = new Varasto(13);
     }
 
     @Test
